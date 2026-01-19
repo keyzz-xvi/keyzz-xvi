@@ -32,28 +32,43 @@ A geolocation-based web system designed to track, unlock, and validate visited p
 ## 🛠️ Programming Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js" width="48" /><br><b>JavaScript</b>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=js" width="48" /><br>JavaScript
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=java" width="48" /><br>Java
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br>Node.js
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=python" width="48" /><br>Python
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br>C++
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=html" width="48" /><br>HTML
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=css" width="48" /><br>CSS
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" /><br>TypeScript
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=php" width="48" /><br>PHP
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=swift" width="48" /><br>Swift
+  </span>
+  <span style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="48" /><br>Android Studio
+  </span>
 </p>
+
+---
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" width="48" /><br><b>Java</b>
+  <sub>aude. innova. duc.</sub>
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="48" /><br><b>Node.js</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" width="48" /><br><b>Python</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp" width="48" /><br><b>C++</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" width="48" /><br><b>HTML</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css" width="48" /><br><b>CSS</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts" width="48" /><br><b>TypeScript</b>
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/
