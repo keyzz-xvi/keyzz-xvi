@@ -46,4 +46,4 @@ A geolocation-based web system designed to track, unlock, and validate visited p
 
 <p align="center">
   <sub>aude. innova. duc.</sub>
-</p> metti anche i nomi oltre ai loghi dei linguaggi
+</p> 
