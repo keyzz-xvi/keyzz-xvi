@@ -18,8 +18,7 @@ Computer Science Student • Finance & Economics Enthusiast • Aviation Admirer
 
 
 I develop applications, digital infrastructures, and complex projects with a clear goal:  
-**making them work in the real world, or at least, i hope so :)
-**.
+making them work in the real world, or at least, i hope so :).
 
 
 ---
