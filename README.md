@@ -34,7 +34,7 @@ A geolocation-based web system designed to track, unlock, and validate visited p
 ## 🛠️ Programming Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,nodejs,python,cpp,html,css,ts,php,swift,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,cpp,html,css,php" />
 </p>
 
 ---
